@@ -1,4 +1,4 @@
-<h1 align="center">🗃️ Free Code Camp Certificate</h1>
+<h1 align="center">🎓 Free Code Camp Certificate</h1>
 
 ### 📝 DESCRIPTION
 
